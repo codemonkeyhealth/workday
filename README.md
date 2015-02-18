@@ -36,7 +36,7 @@ Begin by running a Plant Based Fat every 3 to 4 hours. After successful integrat
 5. NeckSupport – runs every 3 to 4 hours
 6. ShoulderSwagger – runs every 3 to 4 hours
 7. BackGuard – runs every 3 to 4 hours
-8. [Heart Rate Optimizer](#Heart-Rate-Optimizer)– runs every 2 to 3 hours
+8. [Heart Rate Optimizer](#heart-rate-optimizer)– runs every 2 to 3 hours
 
 #### Plant Based Fat ####
 
