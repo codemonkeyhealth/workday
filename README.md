@@ -29,16 +29,16 @@ Begin by running a Plant Based Fat every 3 to 4 hours. After successful integrat
 
 #### Work Day Includes ####
 
-1. PlantBasedFat – runs every 3 to 4 hours
+1. [Plant Based Fat](#Plant-Based-Fat) – runs every 3 to 4 hours
 2. FullBodyMovement – runs every 3 to 4 hours
 3. HipKnee - runs every 3 to 4 hours
 4. FluidHEW (Hands, Elbows & Wrists) – runs every 3 to 4 hours
 5. NeckSupport – runs every 3 to 4 hours
 6. ShoulderSwagger – runs every 3 to 4 hours
 7. BackGuard – runs every 3 to 4 hours
-8. HeartRateOptimizer– runs every 2 to 3 hours
+8. [Heart Rate Optimizer](#Heart-Rate-Optimizer)– runs every 2 to 3 hours
 
-#### PlantBasedFat ####
+#### Plant Based Fat ####
 
 Your brain is fat driven. The most efficient and effective fats are plant based. Because your brain does not have a fat storage tank (repository) you must enter new fat every 3 to 4 hours to maintain optimal function. 
 
@@ -196,7 +196,7 @@ Follow these with side and front lunges.  Stand with your knees slightly bent, f
 
 See slide deck for complete BackGuard routine.
 
-#### HeartRateOptimizer ####
+#### Heart Rate Optimizer ####
 
 Research has shown brisk walking can stop and even reverse brain shrinkage (aka atrophy).  Brain atrophy begins in your forties and seems to have the greatest impact on regions responsible for memory and higher cognition.
 The good news is that aerobic exercise, such as brisk walking (aka heart pumping exercise) increases both gray matter and white matter. Gray matter are your actual neurons. White matter are the connections between neurons.
