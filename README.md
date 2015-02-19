@@ -31,7 +31,7 @@ Begin by running a Plant Based Fat every 3 to 4 hours. After successful integrat
 
 1. [Plant Based Fat](#plant-based-fat) – runs every 3 to 4 hours
 2. [Full Body Movement](#full-body-movement) – runs every 3 to 4 hours
-3. [Hip & Knee](#hip-&-knee) - runs every 3 to 4 hours
+3. [Hip & Knee](#hip-%26-knee) - runs every 3 to 4 hours
 4. [Fluid HEW](#fluid-hew) (Hands, Elbows & Wrists) – runs every 3 to 4 hours
 5. [Neck Support](#neck-support) – runs every 3 to 4 hours
 6. [Shoulder Swagger](#shoulder-swagger) – runs every 3 to 4 hours
