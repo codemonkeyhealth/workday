@@ -31,7 +31,7 @@ Begin by running a Plant Based Fat every 3 to 4 hours. After successful integrat
 
 1. [Plant Based Fat](#plant-based-fat) – runs every 3 to 4 hours
 2. [Full Body Movement](#full-body-movement) – runs every 3 to 4 hours
-3. [Hip & Knee](#hip-%26-knee) - runs every 3 to 4 hours
+3. [Hip n Knee](#hip-n-knee) - runs every 3 to 4 hours
 4. [Fluid HEW](#fluid-hew) (Hands, Elbows & Wrists) – runs every 3 to 4 hours
 5. [Neck Support](#neck-support) – runs every 3 to 4 hours
 6. [Shoulder Swagger](#shoulder-swagger) – runs every 3 to 4 hours
@@ -69,7 +69,7 @@ Before you begin your routine you may want to take a moment to shake loose.  Thi
 
 A complete Full Body Movement routine is available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health"). 
 
-#### Hip & Knee ####
+#### Hip n Knee ####
 
 Unless you are one of the rare programmers using the blended solution of active sitting, standing desk, walking workstation, a Aeron Chair by Herman Miller along with a zero gravity massage chair your back, legs, knees and even your bottom are probably fatigued and sore.  In fact, if you were to poke around where your hips and buttocks meet up on your side you'd probably call out a few non FTC compliant words.
 
@@ -93,7 +93,8 @@ Modify this movement into a deep knee squat when you can. Here's how: Stand with
 
 A full Hip and Knees routine is available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health"). 
 
-#### Fluid HEW (Hands, Elbows & Wrists) ####
+#### Fluid HEW ####
+**(Hands, Elbows & Wrists)**
 
 Many programmers suffer from Cubital Tunnel Syndrome (CTS), although most pass it off as muscle pain or just something weird that happens from time to time. CTS is a repetitive stress injury that typically impacts the elbow, ring & little fingers. It can cause pain, weakness and numbness, and if left untreated could end the career of programmer due to extreme pain, surgery or even total loss of the affected hand(s).
 
