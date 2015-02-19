@@ -1,5 +1,5 @@
 ## WorkDay ##
-**The "Meat and Potatoes"**
+**Five simple steps to health and happiness**
 
 (See complete [Guide](http://codemonkeyhealth.com/the-code-monkey-health-guide/ "CMH Guide to Health for Programmers")  for even more info! [[also on GitHub](https://github.com/codemonkeyhealth/codemonkeyhealthguide "Code Monkey Health Guide on GitHub")])
 
@@ -29,14 +29,14 @@ Begin by running a Plant Based Fat every 3 to 4 hours. After successful integrat
 
 #### Work Day Includes ####
 
-1. [Plant Based Fat](#Plant-Based-Fat) – runs every 3 to 4 hours
-2. FullBodyMovement – runs every 3 to 4 hours
-3. HipKnee - runs every 3 to 4 hours
-4. FluidHEW (Hands, Elbows & Wrists) – runs every 3 to 4 hours
-5. NeckSupport – runs every 3 to 4 hours
-6. ShoulderSwagger – runs every 3 to 4 hours
-7. BackGuard – runs every 3 to 4 hours
-8. [Heart Rate Optimizer](#heart-rate-optimizer)– runs every 2 to 3 hours
+1. [Plant Based Fat](#plant-based-fat) – runs every 3 to 4 hours
+2. [Full Body Movement](#full-body-movement) – runs every 3 to 4 hours
+3. [Hip & Knee](#hip-&-knee) - runs every 3 to 4 hours
+4. [Fluid HEW](#fluid-hew) (Hands, Elbows & Wrists) – runs every 3 to 4 hours
+5. [Neck Support](#neck-support) – runs every 3 to 4 hours
+6. [Shoulder Swagger](#shoulder-swagger) – runs every 3 to 4 hours
+7. [Back Guard](#back-guard) – runs every 3 to 4 hours
+8. [Heart Rate Optimizer](#heart-rate-optimizer) – runs every 2 to 3 hours
 
 #### Plant Based Fat ####
 
@@ -56,7 +56,8 @@ White Chia Seeds are preferred for workplace use as they are extremely gelatinou
 
 > By the way, peanuts are not nuts. Eat them if you like them; but they should not be relied upon as supporting this element.
 
-#### FullBodyMovement – every 3 to 4 hours ####
+#### Full Body Movement ####
+**Every 3 to 4 hours**
 
 A 2012 meta-analysis of 18 different studies found individuals who spent a lot of time sitting were significantly more likely to have have diabetes or heart disease compared to those who sat for less time. By significantly, we mean twice as likely.
 
@@ -66,9 +67,9 @@ A good routine will begin with you standing and working muscle groups from your 
 
 Before you begin your routine you may want to take a moment to shake loose.  This is done by standing with your feet almost shoulder width apart and shifting your weight between your left and right side. First at only your feet, then add your legs, hips, back and arms. Do not intentionally shake your head or neck.
 
-See slide deck for complete Full Body Movement routine. 
+A complete Full Body Movement routine is available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health"). 
 
-#### HipKnee ####
+#### Hip & Knee ####
 
 Unless you are one of the rare programmers using the blended solution of active sitting, standing desk, walking workstation, a Aeron Chair by Herman Miller along with a zero gravity massage chair your back, legs, knees and even your bottom are probably fatigued and sore.  In fact, if you were to poke around where your hips and buttocks meet up on your side you'd probably call out a few non FTC compliant words.
 
@@ -77,7 +78,7 @@ Taking a Hips and Knees break every 3 to 4 hours can help alleviate the fatigue 
 > For those wondering: An "extended period of time" as it relates to sitting it can refer to as little as 20 minutes to over an hour. 
 
 
-You may recall from our Scheduler best practices that taking a health element break every 30 to 60 minutes is our target goal time.
+You may recall from our [Scheduler](https://github.com/codemonkeyhealth/scheduler "Scheduler") best practices that taking a health element break every 30 to 60 minutes is our target goal time.
 
 
 A good routine will begin with you seated - yes really. Cross your legs at the ankles with your left leg on bottom. Gently push your left leg back with your other leg until a stretch is felt. Hold for a few seconds. Relax. Recross bent legs at ankles. Slowly straighten legs, pushing with lower leg. Hold for a few seconds. Repeat with right leg.
@@ -90,11 +91,11 @@ Next, Keeping your feet flat on floor, shoulder width apart, squat as low as is 
 
 Modify this movement into a deep knee squat when you can. Here's how: Stand with feet shoulder width apart and squat deeply, head and chest up. No chair, desk or wall support. Arms stretched straight out in front, palms down.
 
-See slide deck for Full Hip and Knees routine.
+A full Hip and Knees routine is available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health"). 
 
-#### FluidHEW (Hands, Elbows & Wrists) ####
+#### Fluid HEW (Hands, Elbows & Wrists) ####
 
-Many programmers suffer from Cubital Tunnel Syndrome (CTS), although most pass it off as muscle pain or just something weird that happens from time to time. CTS is a a repetitive stress injury that typically impacts the elbow, ring & little fingers. It can cause pain, weakness and numbness, and if left untreated could end the career of programmer due to extreme pain, surgery or even total loss of the affected hand(s).
+Many programmers suffer from Cubital Tunnel Syndrome (CTS), although most pass it off as muscle pain or just something weird that happens from time to time. CTS is a repetitive stress injury that typically impacts the elbow, ring & little fingers. It can cause pain, weakness and numbness, and if left untreated could end the career of programmer due to extreme pain, surgery or even total loss of the affected hand(s).
 
 The ulnar nerve is the primary culprit behind CTS. The ulnar nerve begins way up on the side of your neck, runs through your shoulder and around your elbow ending in your hand.
 
@@ -121,9 +122,9 @@ These next two work sitting, standing or even walking.  Bring your right arm ove
 
 Bend your left elbow as far as possible. With other hand, try to bend it further. Hold up to 30 seconds. Relax and repeat with your other arm.
 
-See slide deck for Hands, Elbows and Wrists routine.
+A Hands, Elbows and Wrists routine is available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health"). 
 
-#### NeckSupport ####
+#### Neck Support ####
 
 Begin by facing forward, then turn head slowly to look over one shoulder, then turn back to face forward and turn your head slowly to look over your other shoulder. Do not turn past your point of comfort. Hold each over the shoulder look for 3 to 20 seconds.  
 
@@ -147,9 +148,9 @@ Place left hand on your left side shoulder blade. With your right hand, gently s
 
 Remember all the neck movements can be completed while sitting, standing or walking.  You should see Mr. Code Monkey making his way to the kitchen for more coffee.
 
-See slide deck for complete NeckSupport routine.
+A complete Neck Support routine is available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
 
-#### ShoulderSwagger ####
+#### Shoulder Swagger ####
 
 A good routine is to rest your left arm on your desk/table, slide body away until stretch is felt. You will be looking at the floor. Hold for 3 to 15 seconds. Repeat with other arm.
 
@@ -175,11 +176,11 @@ If you have access to a doorway or one of the walls that seems to end in the mid
 
 With your elbow bent at 90° place the palm of your left hand against the door frame (or edge of wall). Turn body away from your hand on the frame/wall until a stretch is felt. Hold for 3 to 5 seconds. Repeat on other side.  Now, slide your right arm up the wall (with your palm facing out) and lean toward the wall/doorway.  Repeat with other side.
 
-See slide deck for complete ShoulderSwagger routine.
+A complete Shoulder Swagger routine is available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
 
-#### BackGuard ####
+#### Back Guard ####
 
-Whether you call it hacker back or programmers back more than likely you've experience the sudden sharp pain which can bring even the most elite to their knees in a matter of seconds.  Thankfully a BackGuard routine can eliminate this chronic misfire.
+Whether you call it hacker back or programmers back more than likely you've experience the sudden sharp pain which can bring even the most elite to their knees in a matter of seconds.  Thankfully a Back Guard routine can eliminate this chronic misfire.
 
 A good workplace routines begins seated at in your chair with your feet flat on the floor and knees spread apart. Bend forward to floor. A comfortable stretch should be felt in lower back. Hold for 3 to 15 seconds.
 Sit back up on the front edge of your chair, place your right leg back under chair, bend slightly forward at hip and slowly lower to half-kneeling position. **Keep your stomach tight.**  Repeat with other leg.
@@ -194,7 +195,7 @@ Take your foot off your chair and stand with your knees bent and upper body lean
 
 Follow these with side and front lunges.  Stand with your knees slightly bent, feet flat on the floor and stomach tight.  Take a side step with your right leg, without moving your other leg. Hold for 3 to 15 seconds. Then return to standing position and repeat with other leg.  With your feet shoulder width apart, feet flat on the floor and stomach tight, this time step forward with your left leg. Your hips may shift forward but they should not "drop" down. That is a different exercise for a different part of your body.  Hold for 1 to 10 seconds. Return to starting position and repeat with other leg.
 
-See slide deck for complete BackGuard routine.
+A complete Back Guard routine is available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
 
 #### Heart Rate Optimizer ####
 
@@ -221,4 +222,4 @@ Our Fast High Stepping routine includes light impact for your hands to help impr
 
 If you keep track and post your totals on the Code Monkey Health Heart Rate Tracking page you could receive a healthy gift. We randomly choose a participant every 6 weeks and send them a treat. You will have to register with the site to participate. Registration is free.
 
-More information and extra tools for WorkDay including exercise guides and the Complete Guide  can be found on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
+More information and extra tools for WorkDay and the Complete Guide  can be found on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
