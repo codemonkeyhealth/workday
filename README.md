@@ -70,11 +70,8 @@ Before you begin your routine you may want to take a moment to shake loose.  Thi
 **Downloads**
 
 [Full Body Movement - Complete Package](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Full-Body-Basics.pdf "CMHG Full Body Basics Routine (Complete)")
-
 [Full Body Movement - 4 Up Exercise Illustrations](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Full-Body-Basics_4UP.pdf "CMHG Full Body Basics Routine (4UP)")
-
 [Full Body Movement - 12 Up Exercise Illustrations](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Full-Body-Basics_12UP.pdf "CMHG Full Body Basics Routine (12UP)")
-
 [Full Body Movement - Action Tracking Chart](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Full-Body-Basics_Tracker.pdf "CMHG Full Body Basics Routine (Tracker)")
 
 
